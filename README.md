@@ -1,6 +1,6 @@
 # Hi there, I'm Kidus Shimelis 👋
 
-**Backend-focused Fullstack Developer | AI/ML Enthusiast** | Telegram Bot Devleoper**
+**Backend-focused Fullstack Developer | AI/ML Enthusiast** | **Telegram Bot Devleoper**
 
 Welcome to my GitHub! I’m Kidus, a passionate developer who loves building powerful backend systems, crafting clean user interfaces, and diving deep into the world of Artificial Intelligence and Machine Learning.
 
